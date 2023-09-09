@@ -1,0 +1,15 @@
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\bin\Debug\net7.0\practica5-AlvinRHD.exe
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\bin\Debug\net7.0\practica5-AlvinRHD.deps.json
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\bin\Debug\net7.0\practica5-AlvinRHD.runtimeconfig.json
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\bin\Debug\net7.0\practica5-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\bin\Debug\net7.0\practica5-AlvinRHD.pdb
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.AssemblyInfoInputs.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.AssemblyInfo.cs
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\refint\practica5-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.pdb
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\practica5-AlvinRHD.genruntimeconfig.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\Repositorio_Practicas\practica5-AlvinRHD\obj\Debug\net7.0\ref\practica5-AlvinRHD.dll
